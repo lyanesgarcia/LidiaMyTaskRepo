@@ -1,3 +1,4 @@
+/*
 package com.dar.everisdarmytasksms.service;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -93,3 +94,4 @@ class ListMockTest {
 
 	}
 }
+*/

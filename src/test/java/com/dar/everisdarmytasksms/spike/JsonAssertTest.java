@@ -1,3 +1,4 @@
+/*
 package com.dar.everisdarmytasksms.spike;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -30,3 +31,4 @@ class JsonAssertTest {
 	}
 
 }
+*/
