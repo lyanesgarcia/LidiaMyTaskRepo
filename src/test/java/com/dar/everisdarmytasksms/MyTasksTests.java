@@ -6,13 +6,13 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import com.dar.everisdarmytasksms.controllers.TaskController;
+import com.dar.everisdarmytasksms.controllers.TaskRestController;
 
 @SpringBootTest
 class MyTasksTests {
 
 	@Autowired
-	private TaskController restcontroller;
+	private TaskRestController restcontroller;
 	
 	@Test
 	void contextLoads() {
