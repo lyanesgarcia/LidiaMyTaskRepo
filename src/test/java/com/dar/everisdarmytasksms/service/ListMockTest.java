@@ -1,4 +1,3 @@
-/*
 package com.dar.everisdarmytasksms.service;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -91,7 +90,5 @@ class ListMockTest {
 		arrayListSpy.add("Test4");
 		System.out.println(arrayListSpy.size());//5
 		verify(arrayListSpy).add("Test4");
-
 	}
 }
-*/

@@ -1,4 +1,3 @@
-/*
 package com.dar.everisdarmytasksms.data;
 
 import static org.junit.Assert.assertEquals;
@@ -33,6 +32,4 @@ public class TaskRepositoryTest {
 		assertEquals("In progress", tasks.getTask_status());
 		assertEquals("Backend, microservicios con Spring boot.", tasks.getDescription());
 	}
-
 }
-*/

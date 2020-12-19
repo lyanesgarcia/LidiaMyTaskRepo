@@ -1,4 +1,3 @@
-/*
 package com.dar.everisdarmytasksms;
 
 import static org.assertj.core.api.Assertions.assertThat;
@@ -21,4 +20,3 @@ class MyTasksTests {
 	}
 
 }
-*/

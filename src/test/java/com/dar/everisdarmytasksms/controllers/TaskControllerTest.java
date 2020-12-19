@@ -1,4 +1,3 @@
-/*
 package com.dar.everisdarmytasksms.controllers;
 
 import static org.mockito.Mockito.when;
@@ -164,8 +163,4 @@ public class TaskControllerTest {
 				.andExpect(content().json("{'id':4,'taskstatus':'Pending','description':'Prueba'}"))
 				.andReturn();
 	}
-	
-	
-
 }
-*/

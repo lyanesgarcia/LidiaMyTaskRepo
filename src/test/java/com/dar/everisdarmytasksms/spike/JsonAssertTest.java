@@ -1,4 +1,3 @@
-/*
 package com.dar.everisdarmytasksms.spike;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -27,8 +26,6 @@ class JsonAssertTest {
 	public void jsonAssert_WithoutEscapeCharacters() throws JSONException {
 		String expectedResponse = "{id:1, task_status:Finished}";
 		JSONAssert.assertEquals(expectedResponse, actualResponse, false);
-
 	}
 
 }
-*/

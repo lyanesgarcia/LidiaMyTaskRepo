@@ -1,4 +1,3 @@
-/*
 package com.dar.everisdarmytasksms.service;
 
 import static org.junit.Assert.assertEquals;
@@ -40,11 +39,6 @@ public class TaskServiceTest {
 		
 		assertEquals(1, tasks.get(0).getId());
 		assertEquals("Pending", tasks.get(1).getTask_status());
-		assertEquals("DevOps, desplegar imagen de la aplicación desde DockerHub en AKS.", tasks.get(2).getDescription());
-		
-		
-		
+		assertEquals("DevOps, desplegar imagen de la aplicación desde DockerHub en AKS.", tasks.get(2).getDescription());	
 	}
-	
 }
-*/

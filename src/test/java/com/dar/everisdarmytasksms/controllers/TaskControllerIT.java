@@ -1,4 +1,3 @@
-/*
 package com.dar.everisdarmytasksms.controllers;
 
 import org.json.JSONException;
@@ -35,4 +34,3 @@ class TaskControllerIT {
 	}
 
 }
-*/
