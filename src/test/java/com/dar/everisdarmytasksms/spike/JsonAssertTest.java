@@ -19,7 +19,6 @@ class JsonAssertTest {
 	public void jsonAssert_StrictFalse() throws JSONException {
 		String expectedResponse = "{\"id\":1,\"task_status\":\"Finished\"}";
 		JSONAssert.assertEquals(expectedResponse, actualResponse, false);
-
 	}
 
 	@Test
